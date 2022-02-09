@@ -1,4 +1,204 @@
-word="""survival - 생존
+word="""cancel - 취소하다
+return - 수익, 반납, 귀환, 돌려주다, 돌아오다
+invitation - 초대장, 초대
+precise - 정확한
+formal - 정식의, 공식적인
+apparent - 명백한, 분명한
+departure - 출발
+visual - 시각의
+current - 흐름, 해류, 현재의
+agriculture - 농업
+leak - 누설하다, 새다, 새는 구멍
+portion - 분할하다, 부분, 일부
+trend - 경향, 추세
+particle - 극소량, 입자
+rite - 의례, 의식
+distinct - 뚜렷한, 별개의
+component - 구성하는, 구성 요소
+poverty - 가난, 빈곤
+sculpture - 조각하다, 조각
+descend - 물려주다, 내려오다
+universal - 우주의, 보편적인
+surface - 지면, 수면, 표면
+eager - 갈망하는
+legal - 합법의, 법률의
+annual - 1년간의, 1년의, 연례의
+trap - 막다, 덫을 놓다, 함정
+demonstrate - 보여주다, 시위하다, 설명하다, 논증하다
+companion - 동반자, 동료
+democracy - 민주주의 국가, 민주주의
+mature - 성숙해지다, 지불 만기의, 익은, 성숙한
+brilliant - 명석한, 훌륭한
+faith - 믿음, 신념
+aim - 조준, 겨냥하다
+spare - 남겨주다, 용서하다, 검소한, 여분의
+transfer - 갈아타다, 옮기다, 이동하다
+oppose - 반대하다
+desperate - 절망적인, 필사적인
+remote - 드문, 희박한, 멀리 떨어진
+offend - 저지르다, 기분을 상하게 하다
+awake - 깨다, 깨우다, 깨어 있는
+receive - 받다
+infant - 미발달의, 유아의, 유아
+calculate - 계산하다
+charity - 구호물자, 자선 단체, 자비
+accept - 인정하다, 받아들이다
+depend - 의지하다
+whereas - ~인 반면에
+broad - 가득한, 광범위한, 넓은
+treat - 치료하다, 처리하다, 대우하다, 여기다
+ignorant - 모르는, 무식한
+pure - 순수한
+extinct - 꺼진, 멸종된
+household - 가정의, 가정
+refund - 환불하다, 환불, 반환
+continue - 계속하다
+institute - 제정하다, 설립하다, 협회, 연구소
+lately - 최근에
+ashamed - 부끄러워하는
+dense - 밀집한, 조밀한
+rescue - 구조, 구조하다
+destination - 목적지
+compete - 경쟁하다
+expand - 확장하다
+evolution - 진화
+hire - 고용하다
+genuine - 성실한, 진짜의
+status - 현상, 지위, 상태
+military - 군대, 군대의
+logic - 논리학, 논리
+gravity - 중력
+isolate - 고립시키다
+commit - 맡기다, 전념하다, 저지르다
+sum - 합계, 총합
+conserve - 보존하다
+concept - 개념
+swing - 그네, 진동하다, 흔들다
+sensible - 현명한, 분별 있는
+marriage - 혼인, 결혼
+reproduce - 번식하다, 복제하다, 재생하다
+tone - 색조, 음, 말투, 어조
+hesitate - 망설이다, 주저하다
+location - 위치, 장소
+restrict - 한정하다, 제한하다
+organism - 생명체, 생물, 유기체
+resolve - 분해하다, 해결하다, 결심하다
+offer - 제안하다, 제공하다
+distribute - 분포시키다, 분배하다
+rainforest - 우림
+circumstance - 환경, 상황
+interpret - 통역하다, 해석하다
+suitable - 적합한, 적절한
+curve - 속임수, 곡선
+annoy - 귀찮게 하다, 괴롭히다
+frighten - 겁먹게 하다
+estimate - 평가하다, 평가, 견적
+refuse - 거절하다
+adventure - 위험에 빠뜨리다, 모험
+entrance - 입학, 입구, 입장
+perceive - 인식하다, 인지하다
+persuade - 설득하다
+recite - 암송하다
+gather - 모으다
+cabin - 선실, 객실, 오두막집
+gear - 맞게 조정하다, 기어, 장비
+ray - 광선
+release - 발표, 석방, 발표하다, 방출하다, 놓아주다
+rank - 차지하다, 매기다, 지위, 등급
+symphony - 조화, 교향곡
+envy - 부러워하다, 부러움
+corporate - 법인의, 회사의
+alternative - 대안의 ,대안
+retire - 은퇴하다
+appeal - 매력, 항의, 호소, 관심을 끌다, 항의하다, 호소하다
+identical - 일란성의, 동일한
+investment - 투자
+autograph - 서명하다, 서명
+slave - 노예
+harm - 해치다, 손상, 손해
+authority - 당국, 권위
+innocence - 순잔, 무죄, 결백
+identify - 동일시하다, 식별하다, ~임을 확인하다
+standard - 표준의, 기준의, 표준, 기준
+scale - 비늘, 저울, 규모
+evident - 명백한
+seldom - 거의 ~않는
+secretary - 장관, 서기관, 비서
+basis - 원리, 기초
+automatic - 기계적인, 자동적인
+region - 지역
+rise - 일어나다, 오르다, 상승
+addict - 중독자, 중독시키다
+disappoint - 실망시키다
+artificial - 인조의, 인공적인
+possess - ~의 마음을 사로잡다, 소유하다
+substance - 실체, 본질, 물질
+realistic - 현실주의의, 현실적인
+encounter - 마주침, 만나다
+differ - 의견을 달리하다, 다르다
+principle - 원리, 원칙
+memorize - 기억하다
+physics - 물리학
+evaluate - 평가하다
+tremendous - 무시무시한, 굉장한
+application - 신청, 적용
+vote - 투표하다, 투표
+spread - 펼치다, 퍼지다, 확산, 퍼짐
+impact - 충격을 주다, 영향, 충격
+cooperate - 협력하다
+emit - 방출하다
+request - 요청하다, 요청
+guarantee - 보증하다, 보증
+resist - 저항하다
+fulfill - 실현하다, 이행하다, 달성하다
+stink - 악취, 악취를 풍기다, 역겹다
+grant - 수여하다, 승인하다
+rely - 믿다, 의지하다
+permanent - 영구적인, 영원한
+emergency - 비상 사태
+rid - 제거하다
+theme - 논제, 화제, 주제
+previous - 이전의, 앞의
+produce - 제조하다, 생산하다
+remain - 남다, 여전히 ~이다
+break - 고장 내다, 깨다
+slight - 경미한, 약간의
+include - 포함하다
+delay - 지연, 미루다, 연기하다
+file - 제기하다, 파일에 철하다, 파일, 서류철
+ethic - 윤리
+instant - 순간, 즉석의, 즉각의
+reveal - 폭로하다, 드러내다
+breed - 양육하다, 낳다
+leisure - 한가한, 자유 시간, 여가
+urban - 도시의
+witness - 목격하다, 증인, 목격자
+admit - 입장을 허락하다, 인정하다
+muscle - 강제, 힘, 근육
+device - 방책, 고안, 강치
+suppose - 추측하다, 가정하다
+owe - ~에 돌리다, 빚지고 있다
+intend - 의도하다, ~할 작정이다
+aspect - 면, 양상, 관점
+potential - 잠재력, 잠재적인
+award - 상, 수여하다
+preserve - 보호하다, 보존하다
+spot - 얼룩지게 하다, 발견하다, 얼룩, 지점
+underground - 지하, 비밀의, 지하의
+consequence - 중요성, 결과
+target - 목표로 삼다, 표적, 목표
+unless - 만약 ~이 아니면, ~이 아닌 한
+accomplish - 성취하다, 이루다
+adopt - 입양하다, 채택하다
+unique - 유일한, 독특한
+slip - 종이 조각, 실수하다, 미끄러지다
+civilization - 문명
+row - 배를 젓다, 줄, 열
+horizon - 지평선, 수평선
+atmosphere - 분위기, 대기
+label - ~을 ~이라고 부르다, 라벨을 붙이다, 상표, 꼬리표
+decorate - ~에게 훈장을 주다, 장식하다
+survival - 생존
 comment - 논평하다, 주석, 논평
 leap - 도약, 도약하다, 뛰다
 survey - 둘러보다, 조사하다, 설문 조사

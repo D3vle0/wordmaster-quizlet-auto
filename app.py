@@ -31,7 +31,7 @@ while 1:
 print("🔑 Login success!")
 browser.get("https://quizlet.com/d3vle0/folders/word-master/write")
 
-# restart quiz
+# restart quiz  
 browser.find_element(By.XPATH, '//*[@id="AssistantModeTarget"]/div/div/div/div[1]/div/aside/div[2]/div[3]/div/button').click()
 browser.find_element(By.XPATH, '/html/body/div[10]/div/div[2]/div/div[1]/div[2]/div/div/div/span[2]/input').click()
 browser.find_element(By.XPATH, '/html/body/div[10]/div/div[2]/div/div[3]/div/div[2]/div/div/button').click()
